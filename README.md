@@ -1,36 +1,39 @@
 # 👋 Hi, I'm Anmol Patel (Xenon010101)
 
-🚀 Building **real-world software** focused on DevOps, AI, and scalable systems
+🛠️ Building in public | Learning deeply
+
+🚀 Developer focused on **DevOps, AI & Scalable Systems**
 📍 India
-
----
-
-## 🧠 About Me
-
-I focus on **strong fundamentals + real implementation** — not just courses.
-Currently working on projects that combine **backend systems, DevOps, and AI**.
-
-I aim to build systems that are:
-
-* ⚡ Scalable
-* 🔧 Maintainable
-* 🌍 Useful in real-world scenarios
 
 ---
 
 ## ⚡ Tech Stack
 
-**Languages**
-C | C++ | Python | JavaScript | Dart
+### 🧠 Languages
 
-**Development**
-Flutter | React | Node.js | Express.js
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge\&logo=dart\&logoColor=white)
 
-**Databases**
-MySQL | Firebase
+### 🚀 Development
 
-**DevOps & Core**
-Linux | Networking (Cisco) | Docker (learning) | CI/CD (learning)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge\&logo=flutter\&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge\&logo=express\&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge\&logo=firebase\&logoColor=white)
+
+### ⚙️ DevOps & Tools
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge\&logo=linux\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
@@ -39,85 +42,58 @@ Linux | Networking (Cisco) | Docker (learning) | CI/CD (learning)
 ### 📈 MySTOCKLIST
 
 🔗 https://github.com/Xenon010101/MySTOCKLIST
-
-Real-time Indian stock tracking mobile app
-
-* Live market data with auto-refresh
-* Persistent watchlist
-* Clean Flutter UI
+Real-time Indian stock tracking app with live updates & watchlist
 
 ---
 
 ### 🧠 PresentAI
 
 🔗 https://github.com/Xenon010101/PresentAI
-
-AI-powered presentation evaluator
-
-* Analyzes communication & delivery
-* Provides structured feedback
-* Built with React + TypeScript
+AI-based presentation evaluator with structured feedback
 
 ---
 
 ### 🏥 ArogyaAI
 
-AI-based healthcare assistant
-
-* Generates prescriptions & insights
-* Focus on accessibility in healthcare
-* Built during hackathon
+AI-powered healthcare assistant for generating prescriptions
 
 ---
 
 ### 🎮 Maze Game
 
 🔗 https://github.com/Xenon010101/Maze-Game
-
-Interactive maze game system
-
-* Dynamic maze generation
-* Bombs, items, scoring logic
+Dynamic maze generator with gameplay mechanics
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xenon010101\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Xenon010101\&show_icons=true\&theme=github_dark\&hide_border=true\&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenon010101\&layout=compact)
-
----
-
-## 🛠️ What I'm Building Now
-
-* 🚀 DevOps foundation (Linux + Docker + CI/CD)
-* 📦 Backend systems with real-world use cases
-* 🤖 AI projects with practical implementation
+![Streak](https://streak-stats.demolab.com?user=Xenon010101\&theme=github-dark\&hide_border=true)
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Focus
 
-* Build and deploy **production-ready applications**
-* Master **DevOps tools & workflows**
-* Contribute to **open source**
-* Create **1 standout project that solves a real problem**
+* 🚀 DevOps (Linux + Docker + CI/CD)
+* ⚙️ Backend systems
+* 🤖 Practical AI implementation
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-* 💼 LinkedIn: https://www.linkedin.com/in/anmol-patel-481b54289
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anmol-patel-481b54289)
 
 ---
 
 ## ⚡ Philosophy
 
-> Consistency > Motivation
 > Build > Consume
+> Consistency > Motivation
 > Depth > Hype
 
 ---
 
-⭐ From [Xenon010101](https://github.com/Xenon010101)
+⭐ From Xenon010101
