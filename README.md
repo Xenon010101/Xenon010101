@@ -55,6 +55,7 @@ AI-based presentation evaluator with structured feedback
 
 ### 🏥 ArogyaAI
 
+🔗 https://github.com/Xenon010101/PresentAI
 AI-powered healthcare assistant for generating prescriptions
 
 ---
