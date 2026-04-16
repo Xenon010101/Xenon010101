@@ -43,8 +43,6 @@
 
 🔗 https://xenon010101.github.io/Trading-Agent/
 Autonomous AI-powered trading agent for market analysis & strategy execution
-⚡ Combines data analysis, strategy logic & automated decision-making
-💡 Focus: AI systems + real-world trading simulation
 
 ---
 
