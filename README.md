@@ -39,6 +39,15 @@
 
 ## 📌 Featured Projects
 
+### 🤖 Trading-Agent (Flagship Project)
+
+🔗 https://xenon010101.github.io/Trading-Agent/
+Autonomous AI-powered trading agent for market analysis & strategy execution
+⚡ Combines data analysis, strategy logic & automated decision-making
+💡 Focus: AI systems + real-world trading simulation
+
+---
+
 ### 📈 MySTOCKLIST
 
 🔗 https://github.com/Xenon010101/MySTOCKLIST
