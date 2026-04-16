@@ -76,9 +76,10 @@ Dynamic maze generator with gameplay mechanics
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Xenon010101\&show_icons=true\&theme=github_dark\&hide_border=true\&cache_seconds=86400)
-
-![Streak](https://streak-stats.demolab.com?user=Xenon010101\&theme=github-dark\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xenon010101&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Xenon010101&theme=github-dark&hide_border=true" height="165"/>
+</p>
 
 ---
 
