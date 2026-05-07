@@ -76,7 +76,7 @@ Dynamic maze generator with gameplay mechanics
 
 ## 📊 GitHub Stats
 
-![Xenon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akshita-2307&show_icons=true&theme=tokyonight)
+![Xenon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Xenon010101&show_icons=true&theme=tokyonight)
 
 ---
 
