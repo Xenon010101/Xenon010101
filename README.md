@@ -80,15 +80,12 @@ Dynamic maze generator with gameplay mechanics
   <img
     src="https://github-readme-stats.vercel.app/api?username=Xenon010101&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
-  />
-
+  />&nbsp;&nbsp;
   <img
     src="https://streak-stats.demolab.com?user=Xenon010101&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
-
----
 
 ## 🎯 Current Focus
 
