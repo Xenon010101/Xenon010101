@@ -2,13 +2,13 @@
 
 ### `Xenon010101` · Developer · Builder · Open Source Contributor
 
-> **I turn ideas into software that actually ships.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=I+turn+ideas+into+software+that+ships.;AI+%C3%97+Software+Engineering+%C3%97+DevOps;Building+%E2%80%A2+Shipping+%E2%80%A2+Learning+%E2%80%A2+Repeating;Open+Source+Contributor+%7C+Builder+%7C+Developer" alt="Animated introduction" />
+</p>
 
-I’m a developer focused on building **AI-powered applications, backend systems, developer tools, and scalable software**.
+I build **AI-powered applications, backend systems, developer tools, and scalable software** — turning ideas into products through **architecture, code, deployment, and continuous iteration**.
 
-I enjoy going from **idea → architecture → code → deployment → iteration** — learning by building real things along the way.
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/Xenon010101">
     <img src="https://img.shields.io/badge/GitHub-Xenon010101-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -17,7 +17,19 @@ I enjoy going from **idea → architecture → code → deployment → iteration
   </a>
 </p>
 
+<p align="center">
+  <b>🏆 GSSoC 2026 — Rank #13</b>
+  &nbsp;•&nbsp;
+  <b>🤖 AI</b>
+  &nbsp;•&nbsp;
+  <b>⚙️ Backend & DevOps</b>
+  &nbsp;•&nbsp;
+  <b>🌍 Open Source</b>
+</p>
+
 ---
+
+
 
 ## 🧑‍💻 About Me
 
