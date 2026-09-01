@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Anmol Patel
+# 👋 Hey, I'm Anmol Patel
 
 ### `Xenon010101` · Developer · Builder · Open Source Contributor
 
-I build practical software around **AI, DevOps, backend systems, and scalable applications** — with a focus on turning ideas into working products.
+> **I turn ideas into software that actually ships.**
 
-📍 India · 🌱 Building in public · 🚀 Always learning
+I’m a developer focused on building **AI-powered applications, backend systems, developer tools, and scalable software**.
+
+I enjoy going from **idea → architecture → code → deployment → iteration** — learning by building real things along the way.
 
 <p align="left">
   <a href="https://github.com/Xenon010101">
@@ -17,101 +19,171 @@ I build practical software around **AI, DevOps, backend systems, and scalable ap
 
 ---
 
-## 🧭 What I Work On
+## 🧑‍💻 About Me
 
-- 🤖 **AI Engineering** — practical AI tools, agents, and automation
-- ⚙️ **DevOps & Infrastructure** — Linux, Docker, CI/CD, and deployment workflows
-- 🧩 **Backend Systems** — APIs, services, databases, and scalable architectures
-- 📱 **Application Development** — web and cross-platform applications
-- 🌍 **Open Source** — contributing, collaborating, and shipping in public
+```text
+💡 Build ideas        →      🚀 Ship products
+🤖 Explore AI         →      ⚙️ Automate workflows
+🧩 Solve problems     →      📈 Improve continuously
+🌍 Open Source        →      🤝 Learn & collaborate
+```
 
----
-
-## 🏆 Open Source
-
-### GSSoC 2026
-
-**🏅 Currently ranked #13** in GirlScript Summer of Code 2026.
-
-Open-source contribution, collaboration, and consistent shipping are a major part of my current journey.
+* 🤖 Building with **AI, agents, automation & intelligent systems**
+* ⚙️ Exploring **DevOps, Linux, Docker & CI/CD**
+* 🧠 Developing **backend systems, APIs & scalable applications**
+* 📱 Building **web, mobile & cross-platform products**
+* 🌍 Actively contributing to **Open Source**
+* 🚀 Learning by **building, breaking, fixing and shipping**
 
 ---
 
-## ⚡ Tech Stack
+## 🏆 Open Source Journey
 
-### 🧠 Languages
+### 🥇 GirlScript Summer of Code 2026
 
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/GSSoC%202026-Rank%20%2313-FFD700?style=for-the-badge" alt="GSSoC 2026 Rank 13" />
+</p>
 
-### 🚀 Frameworks & Development
+Currently ranked **#13 in GSSoC 2026**.
 
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
+Open source has become a major part of my developer journey — contributing to projects, collaborating with developers, exploring unfamiliar codebases, and shipping meaningful improvements.
 
-### 🗄️ Databases & Platforms
-
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=white)
-
-### ⚙️ DevOps & Tools
-
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)
+> **Open source isn't just about contributions.
+> It's about becoming a better engineer in public.**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+A few things I've built, experimented with, and shipped.
 
 ### 🤖 Trading-Agent
 
-**Flagship Project**
+**Autonomous AI-powered trading system**
 
-An autonomous AI-powered trading agent focused on **market analysis and strategy execution**.
+A flagship project exploring how AI agents can assist with **market analysis, decision-making and strategy execution**.
 
-🔗 [Live Demo](https://xenon010101.github.io/Trading-Agent/)
+🔗 **[Live Demo](https://xenon010101.github.io/Trading-Agent/)**
+
+---
+
+### 🎯 FocusTube
+
+**A focused video experience built to reduce distractions**
+
+A project exploring a more intentional way to consume video content while keeping the experience simple and focused.
+
+🔗 **[Repository](https://github.com/Xenon010101/FocusTube)**
 
 ---
 
 ### 📈 MySTOCKLIST
 
-Real-time Indian stock tracking application with **live updates and watchlist functionality**.
+**Real-time Indian stock tracking**
 
-🔗 [Repository](https://github.com/Xenon010101/MySTOCKLIST)
+A stock tracking application featuring **live market updates, watchlists and a clean interface**.
+
+🔗 **[Repository](https://github.com/Xenon010101/MySTOCKLIST)**
 
 ---
 
 ### 🧠 PresentAI
 
-AI-powered presentation evaluator designed to provide **structured and useful feedback**.
+**AI-powered presentation evaluator**
 
-🔗 [Repository](https://github.com/Xenon010101/PresentAI)
+An AI-based application designed to provide **structured feedback and actionable insights** for presentations.
+
+🔗 **[Repository](https://github.com/Xenon010101/PresentAI)**
 
 ---
 
 ### 🏥 ArogyaAI
 
-AI-powered healthcare assistant project.
+**AI-powered healthcare assistant**
 
-🔗 [Repository](https://github.com/Xenon010101/ArogyaAI)
+An experimental AI project exploring how intelligent assistants can make information and assistance more accessible.
+
+🔗 **[Repository](https://github.com/Xenon010101/ArogyaAI)**
 
 ---
 
 ### 🎮 Maze Game
 
-Dynamic maze generation project with gameplay mechanics.
+**Dynamic maze generation & gameplay**
 
-🔗 [Repository](https://github.com/Xenon010101/Maze-Game)
+A game project featuring dynamically generated mazes and interactive gameplay mechanics.
+
+🔗 **[Repository](https://github.com/Xenon010101/Maze-Game)**
 
 ---
 
-## 📊 GitHub Activity
+# ⚡ Tech Stack
+
+### 🧠 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+### 🚀 Frameworks & Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
+</p>
+
+### 🗄️ Databases & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+</p>
+
+### ⚙️ DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+</p>
+
+---
+
+# 🧭 What I'm Exploring
+
+```text
+AI Engineering
+    ├── AI Agents
+    ├── Automation
+    └── Intelligent Applications
+
+Backend Engineering
+    ├── APIs
+    ├── Databases
+    └── Scalable Systems
+
+DevOps
+    ├── Linux
+    ├── Docker
+    ├── CI/CD
+    └── Deployment
+
+Open Source
+    ├── Contributions
+    ├── Collaboration
+    └── Building in Public
+```
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
   <img
@@ -124,37 +196,82 @@ Dynamic maze generation project with gameplay mechanics.
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Xenon010101/Xenon010101/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
+    alt="GitHub Contribution Snake"
   />
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Currently Focused On
 
-> **Build → Ship → Learn → Improve**
+### 🚀 Becoming a stronger full-stack engineer
 
-Currently going deeper into:
+I'm currently going deeper into:
 
-- 🚀 DevOps, Linux, Docker & CI/CD
-- ⚙️ Backend and scalable system design
-- 🤖 Practical AI agents and automation
-- 🌍 Open-source contribution and collaboration
+* ⚛️ **React & modern frontend development**
+* 📱 **React Native & cross-platform development**
+* ⚙️ **Backend architecture & APIs**
+* 🐳 **Docker, Linux & CI/CD**
+* 🤖 **AI agents & practical AI engineering**
+* 🧠 **System design & scalable architectures**
+* 🌍 **Open-source contribution**
+
+### My current loop:
+
+> **Learn → Build → Ship → Break → Fix → Improve → Repeat**
 
 ---
 
-## 🌐 Connect
+# 🌱 Open Source
 
-[![GitHub](https://img.shields.io/badge/GitHub-Xenon010101-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xenon010101)
+I believe the fastest way to grow as a developer is to **work on real code with real people**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anmol%20Patel-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-patel-481b54289)
+I'm always interested in:
+
+* 🛠️ Building useful tools
+* 🐛 Fixing real problems
+* 💡 Exploring new technologies
+* 🤝 Collaborating with developers
+* 🌍 Contributing to open source
+* 🚀 Turning experiments into products
+
+**Got an interesting project? Let's build something.**
 
 ---
 
-## ⚡ Philosophy
+# 🌐 Let's Connect
 
-> **Build > Consume**  
-> **Consistency > Motivation**  
-> **Depth > Hype**
+<p align="center">
+  <a href="https://github.com/Xenon010101">
+    <img src="https://img.shields.io/badge/GitHub-Xenon010101-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anmol-patel-481b54289">
+    <img src="https://img.shields.io/badge/LinkedIn-Anmol%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-⭐ Thanks for visiting my profile.
+---
+
+# ⚡ Developer Philosophy
+
+```text
+BUILD > CONSUME
+SHIP > PERFECT
+CONSISTENCY > MOTIVATION
+DEPTH > HYPE
+CURIOSITY > COMFORT
+```
+
+> **Don't just learn technology.
+> Build with it.**
+
+---
+
+<p align="center">
+  <b>⭐ If you find something interesting here, consider giving it a star.</b>
+</p>
+
+<p align="center">
+  <i>Thanks for stopping by — see you in the commits.</i> 🚀
+</p>
+
