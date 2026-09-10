@@ -46,7 +46,7 @@ A Python crypto-trading agent with a React monitoring dashboard. It includes a B
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" width="1200" alt="5,051 contributions, 2,032 pull requests opened, and 7 reviews in GitHub's past-year window. Updated 2026-09-10.">
+  <img src="assets/activity-light.svg" width="1200" alt="5,052 contributions, 2,032 pull requests opened, and 7 reviews in GitHub's past-year window. Updated 2026-09-10.">
 </picture>
 </p>
 
