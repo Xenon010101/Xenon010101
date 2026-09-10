@@ -27,7 +27,11 @@ A browser extension that hides YouTube recommendations, comments, and other dist
 A Python crypto-trading agent with a React monitoring dashboard. It includes a Binance-to-CoinGecko data fallback and checks for position limits and daily losses.
 
 **Python · React · Groq · Web3.py**  
-[Source code](https://github.com/Xenon010101/InsiderEdge) · [Dashboard demo (simulated data)](https://xenon010101.github.io/InsiderEdge/)
+[Source code](https://github.com/Xenon010101/InsiderEdge) · [Dashboard demo](https://xenon010101.github.io/InsiderEdge/)
+
+[![InsiderEdge dashboard showing portfolio metrics, a performance chart, and risk controls. All displayed values are demonstration data.](assets/insideredge-dashboard.png)](https://xenon010101.github.io/InsiderEdge/)
+
+<sub>Actual dashboard screenshot. The public demo uses fixed data and is not connected to the trading agent.</sub>
 
 ### Other repositories
 

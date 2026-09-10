@@ -12,7 +12,7 @@ Python 3.6 or newer is sufficient; no packages are required. The generator repla
 
 Colors are defined in `PALETTES`; `hero` controls the header composition. Update corresponding alt text and readable copy in the root README when changing content.
 
-The optional contribution snake is the only remote image in the profile.
+`insideredge-dashboard.png` is an unmodified viewport screenshot of the [public InsiderEdge demo](https://xenon010101.github.io/InsiderEdge/), captured on 2026-09-10 at 1440 × 960. Its values are deterministic demonstration data, as labelled in both the screenshot and root README. The optional contribution snake is the only remote image in the profile.
 
 ## Contribution activity
 
