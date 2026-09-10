@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">focustube</title><desc id="desc">A luminous play symbol sits within quiet concentric frames.</desc>
+<defs>
+ <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#B5A2FF"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#67E8F9" stop-opacity=".2"/><stop offset=".5" stop-color="#B5A2FF" stop-opacity=".08"/><stop offset="1" stop-color="#0D1117" stop-opacity="0"/></radialGradient>
+ <radialGradient id="core" cx=".3" cy=".2" r=".9"><stop stop-color="#67E8F9" stop-opacity=".16"/><stop offset=".55" stop-color="#111923"/><stop offset="1" stop-color="#0D1117"/></radialGradient>
+ <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#263444" stroke-width=".65"/></pattern>
+ <clipPath id="frame"><rect width="1200" height="300" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="300" fill="#0D1117"/>
+<rect width="1200" height="300" fill="url(#grid)" opacity=".55"/>
+<rect width="1200" height="3" fill="url(#spectrum)"/><text x="40" y="49" fill="#9DAEC2" font-family="Consolas, Courier New, monospace" font-size="17" font-weight="400" letter-spacing="1" >02 / INTENTIONAL EXPERIENCES</text><text x="36" y="130" fill="#F0F6FC" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="61" font-weight="600" letter-spacing="-2" >Less noise.</text><text x="36" y="197" fill="#B5A2FF" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="61" font-weight="600" letter-spacing="-2" >More focus.</text><rect x="40" y="250" width="84" height="3" fill="url(#spectrum)"/><circle cx="141" cy="251" r="3" fill="#67E8F9"/><g><circle cx="926" cy="150" r="270" fill="url(#halo)"/><rect x="660" y="34" width="482" height="234" rx="16" stroke="#293747" fill="#111923" fill-opacity=".25" opacity="0.35"/><rect x="690" y="51" width="422" height="200" rx="16" stroke="#293747" fill="#111923" fill-opacity=".25" opacity="0.6"/><rect x="731" y="72" width="340" height="158" rx="16" stroke="#293747" fill="#111923" fill-opacity=".25" opacity="1"/><circle cx="901" cy="150" r="76" stroke="url(#spectrum)" stroke-dasharray="2 8" opacity=".55"/><circle cx="901" cy="150" r="51" fill="url(#core)" stroke="url(#spectrum)" stroke-width="2"/><path d="M891 127L923 150L891 173Z" fill="url(#spectrum)"/><path d="M760 254H1042" stroke="#293747"/><path d="M760 254H914" stroke="#B5A2FF" stroke-width="3"/><circle cx="914" cy="254" r="5" fill="#B5A2FF"/></g></g><rect x=".5" y=".5" width="1199" height="299" rx="19.5" stroke="#293747"/></svg>

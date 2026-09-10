@@ -1,0 +1,46 @@
+name: Refresh profile activity
+
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/activity.yml'
+      - '.github/tests/test_activity.py'
+      - 'assets/update_activity.py'
+      - 'assets/generate.py'
+      - 'README.md'
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Validate activity generation
+        run: python3 -B -m unittest discover -s .github/tests
+      - name: Fetch and render a validated snapshot
+        run: python3 -B assets/update_activity.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Save updated activity assets
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md assets/activity.json assets/activity-dark.svg assets/activity-light.svg assets/activity-mobile-dark.svg assets/activity-mobile-light.svg
+          if git diff --cached --quiet; then
+            echo 'The activity snapshot is already current.'
+            exit 0
+          fi
+          git commit -m 'chore: refresh profile activity snapshot'
+          git push origin HEAD:main
