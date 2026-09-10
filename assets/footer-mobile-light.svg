@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Keep building</title><desc id="desc">Learn. Build. Ship. Improve. Repeat.</desc>
+<defs>
+ <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A51D35"/><stop offset="1" stop-color="#731B37"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#A51D35" stop-opacity=".2"/><stop offset=".5" stop-color="#731B37" stop-opacity=".08"/><stop offset="1" stop-color="#FCF7F8" stop-opacity="0"/></radialGradient>
+ <radialGradient id="core" cx=".3" cy=".2" r=".9"><stop stop-color="#A51D35" stop-opacity=".16"/><stop offset=".55" stop-color="#F7EDF0"/><stop offset="1" stop-color="#FCF7F8"/></radialGradient>
+ <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#E8D8DE" stroke-width=".65"/></pattern>
+ <clipPath id="frame"><rect width="640" height="180" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="640" height="180" fill="#FCF7F8"/>
+<rect width="640" height="180" fill="url(#grid)" opacity=".55"/>
+<path d="M33 70L69 106M69 70L33 106" stroke="url(#spectrum)" stroke-width="5"/><text x="111" y="77" fill="#152337" font-family="Consolas, Courier New, monospace" font-size="27" font-weight="600" >LEARN → BUILD → SHIP</text><text x="111" y="122" fill="#A51D35" font-family="Consolas, Courier New, monospace" font-size="27" font-weight="600" >IMPROVE → REPEAT</text></g><rect x=".5" y=".5" width="639" height="179" rx="19.5" stroke="#E6CFD6"/></svg>

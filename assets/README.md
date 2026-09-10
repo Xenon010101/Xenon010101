@@ -1,6 +1,6 @@
 # Profile artwork
 
-Self-contained SVG artwork for Anmol Patel's GitHub profile. The cyan hero and activity card have desktop and mobile versions in both themes. The profile displays committed assets without fetching fonts or relying on a live stats-card service.
+Original, self-contained SVG artwork for Anmol Patel's GitHub profile. Both themes include dedicated desktop and mobile compositions. The profile works without running any code or fetching fonts, badges, or live statistics.
 
 To edit the artwork, change `generate.py`, then run from the repository root:
 
@@ -10,9 +10,9 @@ python assets/generate.py
 
 Python 3.6 or newer is sufficient; no packages are required. The generator replaces only the SVG files it owns in this directory. Commit the generated SVGs with the root README. It does not modify the contribution-snake workflow or its output branch.
 
-Colors are defined in `PALETTES`; `hero` controls the header composition. Update corresponding alt text and readable copy in the root README when changing content.
+Colors are defined in `PALETTES`. The `hero`, `card`, `achievement`, and `footer` functions control each composition. Update corresponding alt text and readable copy in the root README when changing content. Achievement wording comes from the original README; update it only with confirmed information.
 
-`insideredge-dashboard.png` is an unmodified viewport screenshot of the [public InsiderEdge demo](https://xenon010101.github.io/InsiderEdge/), captured on 2026-09-10 at 1440 × 960. Its values are deterministic demonstration data, as labelled in both the screenshot and root README. The optional contribution snake is the only remote image in the profile.
+The project illustrations are conceptual artwork, not screenshots or measured results. The optional contribution snake is the only generated remote image in the profile.
 
 ## Contribution activity
 

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="144" viewBox="0 0 1200 144" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">GSSoC 2026 — Rank #13</title><desc id="desc">Anmol Patel’s GSSoC 2026 achievement, as supplied in the original profile.</desc>
+<defs>
+ <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A51D35"/><stop offset="1" stop-color="#731B37"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#A51D35" stop-opacity=".2"/><stop offset=".5" stop-color="#731B37" stop-opacity=".08"/><stop offset="1" stop-color="#FCF7F8" stop-opacity="0"/></radialGradient>
+ <radialGradient id="core" cx=".3" cy=".2" r=".9"><stop stop-color="#A51D35" stop-opacity=".16"/><stop offset=".55" stop-color="#F7EDF0"/><stop offset="1" stop-color="#FCF7F8"/></radialGradient>
+ <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#E8D8DE" stroke-width=".65"/></pattern>
+ <clipPath id="frame"><rect width="1200" height="144" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="144" fill="#FCF7F8"/>
+<rect width="1200" height="144" fill="url(#grid)" opacity=".55"/>
+<rect x="0" y="0" width="5" height="144" fill="url(#spectrum)"/><text x="40" y="111" fill="#A51D35" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="-5" >#13</text><path d="M250 32V112" stroke="#E6CFD6"/><text x="284" y="72" fill="#152337" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="33" font-weight="600" >GSSoC 2026</text><text x="284" y="108" fill="#52657D" font-family="Consolas, Courier New, monospace" font-size="19" font-weight="400" letter-spacing="1" >OPEN SOURCE · REAL CONTRIBUTIONS</text><rect x="976" y="84" width="6" height="20" rx="3" fill="#731B37" opacity="0.18"/><rect x="996" y="79" width="6" height="25" rx="3" fill="#A51D35" opacity="0.25"/><rect x="1016" y="74" width="6" height="30" rx="3" fill="#731B37" opacity="0.32"/><rect x="1036" y="69" width="6" height="35" rx="3" fill="#A51D35" opacity="0.39"/><rect x="1056" y="64" width="6" height="40" rx="3" fill="#731B37" opacity="0.46"/><rect x="1076" y="59" width="6" height="45" rx="3" fill="#A51D35" opacity="0.53"/><rect x="1096" y="54" width="6" height="50" rx="3" fill="#731B37" opacity="0.6000000000000001"/><rect x="1116" y="49" width="6" height="55" rx="3" fill="#A51D35" opacity="0.67"/><rect x="1136" y="44" width="6" height="60" rx="3" fill="#731B37" opacity="0.74"/></g><rect x=".5" y=".5" width="1199" height="143" rx="19.5" stroke="#E6CFD6"/></svg>

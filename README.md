@@ -5,44 +5,100 @@
   <img src="assets/hero-light.svg" width="1200" alt="Anmol Patel — AI, full-stack, and open source. A luminous orbital structure forms the Xenon signature.">
 </picture>
 
-# Hi, I'm Anmol.
+# Building intelligent tools. Shipping useful software.
 
-I build browser extensions and AI tools, and contribute to open source. I'm especially interested in backend systems and practical uses of AI.
+I'm **Anmol Patel**, an AI-focused full-stack developer and open-source contributor. I build AI tools, backend APIs, and web and mobile experiences—taking ideas from the first sketch through architecture, deployment, and iteration.
 
-**GSSoC 2026 — Rank #13**
+**[Selected builds ↓](#selected-builds)** &nbsp; / &nbsp; **[Toolkit ↓](#technical-toolkit)** &nbsp; / &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/anmol-patel-481b54289)**
 
-[Projects](#selected-projects) · [Toolkit](#technical-toolkit) · [LinkedIn](https://www.linkedin.com/in/anmol-patel-481b54289)
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/achievement-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/achievement-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/achievement-dark.svg">
+  <img src="assets/achievement-light.svg" width="1200" alt="GSSoC 2026 — Rank #13.">
+</picture>
+</p>
 
-## Selected projects
+**GSSoC 2026 · Rank #13.** Open source is where I sharpen my craft: real codebases, thoughtful collaboration, useful contributions.
 
-### FocusTube
+<br>
 
-A browser extension that hides YouTube recommendations, comments, and other distractions while keeping the video visible. Focus mode survives YouTube's single-page navigation, with per-tab state stored using Chrome's session storage.
+## Selected builds
 
-**JavaScript · Manifest V3**  
-[Source code](https://github.com/Xenon010101/FocusTube) · [Install for Edge](https://microsoftedge.microsoft.com/addons/detail/cjhibbneibhhcjiiekbhfgiilhijgibo)
+Three ways I turn curiosity into software.
 
-### InsiderEdge
+### 01 / Trading-Agent
 
-A Python crypto-trading agent with a React monitoring dashboard. It includes a Binance-to-CoinGecko data fallback and checks for position limits and daily losses.
+<p>
+<a href="https://xenon010101.github.io/Trading-Agent/">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/trading-agent-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/trading-agent-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/trading-agent-dark.svg">
+    <img src="assets/trading-agent-light.svg" width="1200" alt="Trading-Agent concept illustration: market signals converge into a structured analysis path.">
+  </picture>
+</a>
+</p>
 
-**Python · React · Groq · Web3.py**  
-[Source code](https://github.com/Xenon010101/InsiderEdge) · [Dashboard demo](https://xenon010101.github.io/InsiderEdge/)
+**Making sense of market signals.** An autonomous, AI-powered system for market analysis, decision support, and strategy exploration.
 
-[![InsiderEdge dashboard showing portfolio metrics, a performance chart, and risk controls. All displayed values are demonstration data.](assets/insideredge-dashboard.png)](https://xenon010101.github.io/InsiderEdge/)
+`AI & automation` · `Market analysis`  
+**[Explore the live demo ↗](https://xenon010101.github.io/Trading-Agent/)**
 
-<sub>Actual dashboard screenshot. The public demo uses fixed data and is not connected to the trading agent.</sub>
+<br>
 
-### Other repositories
+### 02 / FocusTube
 
-- **[MySTOCKLIST](https://github.com/Xenon010101/MySTOCKLIST)** — An Indian stock tracker with live updates and watchlists.
-- **[ArogyaAI](https://github.com/Xenon010101/ArogyaAI)** — An experimental healthcare assistant.
-- **[Maze Game](https://github.com/Xenon010101/Maze-Game)** — A game with dynamic maze generation.
-- **[PresentAI](https://github.com/Xenon010101/presentai)** — My fork of [a presentation-feedback prototype](https://github.com/Aman-bit1/presentai), with a React/Express upload flow and simulated evaluation scores.
+<p>
+<a href="https://github.com/Xenon010101/FocusTube">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/focustube-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/focustube-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/focustube-dark.svg">
+    <img src="assets/focustube-light.svg" width="1200" alt="FocusTube concept illustration: a single play button in focus, surrounded by quiet concentric frames.">
+  </picture>
+</a>
+</p>
 
-[All repositories](https://github.com/Xenon010101?tab=repositories)
+**Make room for intentional viewing.** A distraction-reduced video experience that puts the focus back on what you came to watch.
 
-## GitHub activity
+`Focused experiences` · `Product development`  
+**[Explore the repository ↗](https://github.com/Xenon010101/FocusTube)**
+
+<br>
+
+### 03 / PresentAI
+
+<p>
+<a href="https://github.com/Xenon010101/PresentAI">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/presentai-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/presentai-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/presentai-dark.svg">
+    <img src="assets/presentai-light.svg" width="1200" alt="PresentAI concept illustration: a presentation connects to structured feedback and an improvement loop.">
+  </picture>
+</a>
+</p>
+
+**Turn a presentation into a learning loop.** An AI-powered presentation evaluator that delivers structured, actionable feedback.
+
+`Applied AI` · `Presentation feedback`  
+**[Explore the repository ↗](https://github.com/Xenon010101/PresentAI)**
+
+<br>
+
+### Also on my workbench
+
+- **[MySTOCKLIST ↗](https://github.com/Xenon010101/MySTOCKLIST)** — An Indian stock tracker with live updates and watchlists.
+- **[ArogyaAI ↗](https://github.com/Xenon010101/ArogyaAI)** — An experimental healthcare assistant exploring accessible information and support.
+- **[Maze Game ↗](https://github.com/Xenon010101/Maze-Game)** — Dynamic maze generation meets interactive gameplay.
+
+**[Browse all repositories ↗](https://github.com/Xenon010101?tab=repositories)**
+
+<br>
+
+## Open-source activity
 
 <!-- ACTIVITY:START -->
 <p>
@@ -50,34 +106,51 @@ A Python crypto-trading agent with a React monitoring dashboard. It includes a B
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" width="1200" alt="5,052 contributions, 2,032 pull requests opened, and 7 reviews in GitHub's past-year window. Updated 2026-09-10.">
+  <img src="assets/activity-light.svg" width="1200" alt="5,049 contributions, 2,032 pull requests opened, and 7 reviews in GitHub's past-year window. Updated 2026-09-10.">
 </picture>
 </p>
 
-<sub>GitHub's past-year window · 2025-09-07 to 2026-09-10 · <a href="assets/activity.json">Snapshot data</a></sub>
+<sub>GitHub's past-year window · 2025-09-06 to 2026-09-10 · <a href="assets/activity.json">Snapshot data</a></sub>
 <!-- ACTIVITY:END -->
+
+<br>
 
 ## Technical toolkit
 
-| Area | Tools |
+| Layer | Tools I work with |
 | :--- | :--- |
-| Languages | C · C++ · Python · JavaScript · Dart |
-| Applications | React · Node.js · Express · Flutter |
-| Data | MySQL · Firebase |
-| Infrastructure | Git · Linux · Docker · CI/CD |
+| **Languages** | C · C++ · Python · JavaScript · Dart |
+| **Applications** | React · Node.js · Express · Flutter |
+| **Data** | MySQL · Firebase |
+| **Infrastructure** | Git · Linux · Docker · CI/CD |
 
-I'm currently learning more about AI agents, backend architecture, and React Native.
+### Currently exploring
 
-## Get in touch
+Practical AI agents, backend architecture and system design, modern React, and cross-platform development with React Native. Alongside that: stronger deployment workflows with Docker, Linux, and CI/CD.
 
-For project questions or collaboration, reach me on [LinkedIn](https://www.linkedin.com/in/anmol-patel-481b54289).
+<br>
+
+## Let's build something useful.
+
+I enjoy reading unfamiliar code, working through engineering problems, and shipping improvements with other builders. If your work overlaps with AI, full-stack development, or open source, I'd love to connect.
+
+**[Connect on LinkedIn ↗](https://www.linkedin.com/in/anmol-patel-481b54289)** &nbsp; / &nbsp; **[Find me on GitHub ↗](https://github.com/Xenon010101)**
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/footer-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/footer-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" width="1200" alt="Learn. Build. Ship. Improve. Repeat.">
+</picture>
 
 <details>
-  <summary>Contribution snake</summary>
+  <summary>A little motion · my contribution trail</summary>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xenon010101/Xenon010101/output/github-contribution-grid-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/Xenon010101/Xenon010101/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution trail for Xenon010101">
   </picture>
-  <p><a href="https://github.com/Xenon010101">View my GitHub activity</a></p>
+  <p><a href="https://github.com/Xenon010101">View my GitHub activity ↗</a></p>
 </details>
