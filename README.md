@@ -32,21 +32,24 @@ Some of the projects I have enjoyed building and improving.
 
 An autonomous AI system for market analysis, decision support, and strategy exploration.
 
-**Focus:** AI automation · Market analysis  
+**Focus:** AI automation · Market analysis
+
 **[Live demo ↗](https://xenon010101.github.io/Trading-Agent/)**
 
 ### FocusTube
 
 A distraction-reduced video experience designed for intentional viewing.
 
-**Focus:** Browser experience · Product development  
+**Focus:** Browser experience · Product development
+
 **[Source code ↗](https://github.com/Xenon010101/FocusTube)**
 
 ### PresentAI
 
 An AI-powered presentation evaluator that delivers structured, actionable feedback.
 
-**Focus:** Applied AI · Presentation feedback  
+**Focus:** Applied AI · Presentation feedback
+
 **[Source code ↗](https://github.com/Xenon010101/PresentAI)**
 
 ### More projects
