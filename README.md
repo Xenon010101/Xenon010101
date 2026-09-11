@@ -26,69 +26,30 @@ I'm **Anmol Patel**, an AI-focused full-stack developer and open-source contribu
 
 ## Selected builds
 
-Three ways I turn curiosity into software.
+Some of the projects I have enjoyed building and improving.
 
-### 01 / Trading-Agent
+### Trading-Agent
 
-<p>
-<a href="https://xenon010101.github.io/Trading-Agent/">
-  <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/trading-agent-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/trading-agent-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/trading-agent-dark.svg">
-    <img src="assets/trading-agent-light.svg" width="1200" alt="Trading-Agent concept illustration: market signals converge into a structured analysis path.">
-  </picture>
-</a>
-</p>
+An autonomous AI system for market analysis, decision support, and strategy exploration.
 
-**Making sense of market signals.** An autonomous, AI-powered system for market analysis, decision support, and strategy exploration.
+**Focus:** AI automation · Market analysis  
+**[Live demo ↗](https://xenon010101.github.io/Trading-Agent/)**
 
-`AI & automation` · `Market analysis`  
-**[Explore the live demo ↗](https://xenon010101.github.io/Trading-Agent/)**
+### FocusTube
 
-<br>
+A distraction-reduced video experience designed for intentional viewing.
 
-### 02 / FocusTube
+**Focus:** Browser experience · Product development  
+**[Source code ↗](https://github.com/Xenon010101/FocusTube)**
 
-<p>
-<a href="https://github.com/Xenon010101/FocusTube">
-  <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/focustube-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/focustube-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/focustube-dark.svg">
-    <img src="assets/focustube-light.svg" width="1200" alt="FocusTube concept illustration: a single play button in focus, surrounded by quiet concentric frames.">
-  </picture>
-</a>
-</p>
+### PresentAI
 
-**Make room for intentional viewing.** A distraction-reduced video experience that puts the focus back on what you came to watch.
+An AI-powered presentation evaluator that delivers structured, actionable feedback.
 
-`Focused experiences` · `Product development`  
-**[Explore the repository ↗](https://github.com/Xenon010101/FocusTube)**
+**Focus:** Applied AI · Presentation feedback  
+**[Source code ↗](https://github.com/Xenon010101/PresentAI)**
 
-<br>
-
-### 03 / PresentAI
-
-<p>
-<a href="https://github.com/Xenon010101/PresentAI">
-  <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/presentai-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/presentai-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/presentai-dark.svg">
-    <img src="assets/presentai-light.svg" width="1200" alt="PresentAI concept illustration: a presentation connects to structured feedback and an improvement loop.">
-  </picture>
-</a>
-</p>
-
-**Turn a presentation into a learning loop.** An AI-powered presentation evaluator that delivers structured, actionable feedback.
-
-`Applied AI` · `Presentation feedback`  
-**[Explore the repository ↗](https://github.com/Xenon010101/PresentAI)**
-
-<br>
-
-### Also on my workbench
+### More projects
 
 - **[MySTOCKLIST ↗](https://github.com/Xenon010101/MySTOCKLIST)** — An Indian stock tracker with live updates and watchlists.
 - **[ArogyaAI ↗](https://github.com/Xenon010101/ArogyaAI)** — An experimental healthcare assistant exploring accessible information and support.
