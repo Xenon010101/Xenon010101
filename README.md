@@ -32,7 +32,7 @@ Some of the projects I have enjoyed building and improving.
 |---|---|---|---|
 | **Trading-Agent** | An autonomous AI system for market analysis, decision support, and strategy exploration. | AI Automation · Market Analysis | [Live Demo ↗](https://xenon010101.github.io/Trading-Agent/) |
 | **FocusTube** | A distraction-reduced video experience designed for intentional viewing. | Browser Experience · Product Development | [Source Code ↗](https://github.com/Xenon010101/FocusTube) |
-| **ArogyaAI** | An AI-powered healthcare assistant exploring accessible health information and intelligent support. | Healthcare AI · Applied AI | [Live Demo ↗]([https://github.com/Xenon010101/ArogyaAI](https://arogyaai-demo.onrender.com/) |
+| **ArogyaAI** | An AI-powered healthcare assistant exploring accessible health information and intelligent support. | Healthcare AI · Applied AI | [Live Demo ↗](https://arogyaai-demo.onrender.com/) |
 | **PresentAI** | An AI-powered presentation evaluator that delivers structured, actionable feedback. | Applied AI · Presentation Feedback | [Source Code ↗](https://github.com/Xenon010101/PresentAI) |
 
 <p align="center">
