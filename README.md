@@ -48,7 +48,7 @@ Some of the projects I have enjoyed building and improving.
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" width="1200" alt="5,061 contributions, 2,032 pull requests opened, and 7 reviews in GitHub's past-year window. Updated 2026-09-14.">
+  <img src="assets/activity-light.svg" width="1200" alt="5,063 contributions, 2,032 pull requests opened, and 7 reviews in GitHub's past-year window. Updated 2026-09-14.">
 </picture>
 </p>
 
