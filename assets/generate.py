@@ -31,7 +31,7 @@ def start(w,h,p,title,desc):
 '''
 
 def end(w,h,p):
-    return f'</g><rect x=".5" y=".5" width="{w-1}" height="{h-1}" rx="19.5" stroke="{p["line"]}"/></svg>\n'
+    return '</g></svg>\n'
 
 def orbit(p,cx,cy,scale=1):
     s = f'<g transform="translate({cx} {cy}) scale({scale})">'
@@ -66,7 +66,6 @@ def hero(theme,mobile=False):
         s+=f'<path d="M36 652H604" stroke="{p["line"]}"/>'
         s+=text(36,681,'CURIOSITY → CODE → IMPACT',18,p['muted'],mono=True)
     else:
-        s+=f'<rect x="0" y="0" width="6" height="480" fill="url(#spectrum)"/>'
         s+=text(48,56,'XENON010101',19,p['cyan'],600,spacing=2,mono=True)
         s+=text(48,104,'ENGINEERED INTELLIGENCE',15,p['muted'],spacing=3,mono=True)
         s+=text(42,215,'Anmol',103,p['ink'],700,spacing=-5)
@@ -87,7 +86,6 @@ def card(theme,kind,mobile=False):
     }
     label,line1,line2,desc=labels[kind]
     s=start(w,h,p,kind,desc)
-    s+=f'<rect width="{w}" height="3" fill="url(#spectrum)"/>'
     s+=text(32 if mobile else 40,44 if mobile else 49,label,20 if mobile else 17,p['muted'],mono=True,spacing=1)
     s+=text(30 if mobile else 36,106 if mobile else 130,line1,54 if mobile else 61,p['ink'],600,spacing=-2)
     s+=text(30 if mobile else 36,164 if mobile else 197,line2,54 if mobile else 61,p['cyan'] if kind!='focustube' else p['violet'],600,spacing=-2)
@@ -143,7 +141,6 @@ def footer(theme,mobile=False):
 def achievement(theme,mobile=False):
     p=PALETTES[theme]; w,h=(640,210) if mobile else (1200,144)
     s=start(w,h,p,'GSSoC 2026 — Rank #13','Anmol Patel’s GSSoC 2026 achievement, as supplied in the original profile.')
-    s+=f'<rect x="0" y="0" width="5" height="{h}" fill="url(#spectrum)"/>'
     s+=text(32 if mobile else 40,142 if mobile else 111,'#13',94 if mobile else 92,p['cyan'],700,spacing=-5)
     if mobile:
         s+=f'<path d="M244 42V168" stroke="{p["line"]}"/>'

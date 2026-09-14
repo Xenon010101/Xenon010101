@@ -124,7 +124,6 @@ def render(snapshot, theme, mobile=False):
     p = PALETTES[theme]
     w, h = (640, 460) if mobile else (1200, 310)
     s = start(w, h, p, 'Open-source activity', summary(snapshot))
-    s += f'<rect width="{w}" height="3" fill="url(#spectrum)"/>'
     s += text(32 if mobile else 40, 42, 'OPEN SOURCE / PAST YEAR',
               21 if mobile else 19, p['muted'], mono=True, spacing=1)
     if mobile:
