@@ -76,23 +76,31 @@ Practical AI agents, backend architecture and system design, modern React, and c
 
 I enjoy reading unfamiliar code, working through engineering problems, and shipping improvements with other builders. If your work overlaps with AI, full-stack development, or open source, I'd love to connect.
 
-**[Connect on LinkedIn ↗](https://www.linkedin.com/in/anmol-patel-481b54289)** &nbsp; / &nbsp; **[Find me on GitHub ↗](https://github.com/Xenon010101)**
+<p align="center">
+  <a href="https://www.linkedin.com/in/anmol-patel-481b54289">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Xenon010101">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 <br>
 
+## Contribution Trail
+
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/footer-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/footer-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <img src="assets/footer-light.svg" width="1200" alt="Learn. Build. Ship. Improve. Repeat.">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Xenon010101/Xenon010101/output/github-contribution-grid-snake-dark.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/Xenon010101/Xenon010101/output/github-contribution-grid-snake.svg"
+    alt="Animated GitHub contribution trail for Xenon010101"
+  >
 </picture>
 
-<details>
-  <summary>A little motion · my contribution trail</summary>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xenon010101/Xenon010101/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Xenon010101/Xenon010101/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution trail for Xenon010101">
-  </picture>
-  <p><a href="https://github.com/Xenon010101">View my GitHub activity ↗</a></p>
-</details>
+<p>
+  <a href="https://github.com/Xenon010101">View my GitHub activity ↗</a>
+</p>
