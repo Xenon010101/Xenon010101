@@ -101,6 +101,3 @@ Some of the projects I have enjoyed building and improving.
   >
 </picture>
 
-<p>
-  <a href="https://github.com/Xenon010101">View my GitHub activity ↗</a>
-</p>
