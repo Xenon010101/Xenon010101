@@ -74,9 +74,6 @@ Some of the projects I have enjoyed building and improving.
 
 <br>
 
-## Let’s build something useful.
-
-I enjoy exploring unfamiliar codebases, solving engineering problems, and building useful things with other developers.
 
 
 <p align="center">
