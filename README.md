@@ -52,8 +52,6 @@ Some of the projects I have enjoyed building and improving.
 </picture>
 </p>
 
-<sub>GitHub's past-year window · 2025-09-14 to 2026-09-14 · <a href="assets/activity.json">Snapshot data</a></sub>
-<!-- ACTIVITY:END -->
 
 <br>
 
@@ -68,13 +66,18 @@ Some of the projects I have enjoyed building and improving.
 
 ### Currently exploring
 
-Practical AI agents, backend architecture and system design, modern React, and cross-platform development with React Native. Alongside that: stronger deployment workflows with Docker, Linux, and CI/CD.
+* **AI:** Practical AI agents & AI-powered applications
+* **Backend:** Architecture & system design
+* **Frontend:** Modern React
+* **Mobile:** React Native
+* **DevOps:** Docker, Linux & CI/CD
 
 <br>
 
-## Let's build something useful.
+## Let’s build something useful.
 
-I enjoy reading unfamiliar code, working through engineering problems, and shipping improvements with other builders. If your work overlaps with AI, full-stack development, or open source, I'd love to connect.
+I enjoy exploring unfamiliar codebases, solving engineering problems, and building useful things with other developers.
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anmol-patel-481b54289">
