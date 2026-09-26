@@ -1,9 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hero-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="1200" alt="Anmol Patel — AI, full-stack, and open source. A luminous orbital structure forms the Xenon signature.">
-</picture>
+<img src="assets/anmol-hero.svg" width="1200" alt="Anmol Patel — AI, full-stack, and open source. Building intelligent tools and shipping useful software.">
 
 # Building intelligent tools. Shipping useful software.
 

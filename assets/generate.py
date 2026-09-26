@@ -157,8 +157,6 @@ def achievement(theme,mobile=False):
 
 if __name__ == '__main__':
     for theme in PALETTES:
-        hero(theme)
-        hero(theme,True)
         for kind in ['trading-agent','focustube','presentai']:
             card(theme,kind)
             card(theme,kind,True)
@@ -166,4 +164,4 @@ if __name__ == '__main__':
         footer(theme,True)
         achievement(theme)
         achievement(theme,True)
-    print('Created 24 self-contained profile SVG assets.')
+    print('Created 20 self-contained profile SVG assets.')
