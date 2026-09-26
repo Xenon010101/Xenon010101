@@ -1,11 +1,5 @@
 <img src="assets/anmol-hero.svg" width="1200" alt="Anmol Patel — AI, full-stack, and open source. Building intelligent tools and shipping useful software.">
 
-# Building intelligent tools. Shipping useful software.
-
-I'm **Anmol Patel**, an AI-focused full-stack developer and open-source contributor. I build AI tools, backend APIs, and web and mobile experiences—taking ideas from the first sketch through architecture, deployment, and iteration.
-
-**[Selected builds ↓](#selected-builds)** &nbsp; / &nbsp; **[Toolkit ↓](#technical-toolkit)** &nbsp; / &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/anmol-patel-481b54289)**
-
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/achievement-mobile-dark.svg">
@@ -13,6 +7,7 @@ I'm **Anmol Patel**, an AI-focused full-stack developer and open-source contribu
   <source media="(prefers-color-scheme: dark)" srcset="assets/achievement-dark.svg">
   <img src="assets/achievement-light.svg" width="1200" alt="GSSoC 2026 — Rank #13.">
 </picture>
+  
 </p>
 
 **GSSoC 2026 · Rank #13.** Open source is where I sharpen my craft: real codebases, thoughtful collaboration, useful contributions.
