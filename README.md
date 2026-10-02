@@ -1,4 +1,4 @@
-<img src="assets/anmol-hero.svg" width="1200" alt="Anmol Patel — AI, full-stack, and open source. Building intelligent tools and shipping useful software.">
+<img src="assets/anmol-hero.webp" width="1200" alt="Anmol Patel — AI, full-stack, and open source. Building intelligent tools and shipping useful software.">
 
 <p>
 <picture>
