@@ -14,6 +14,18 @@
 
 <br>
 
+## Featured Project
+
+### Chhath Puja Vibes
+
+An interactive celebration of Chhath Puja, unfolding across all four festival days through artwork and a custom music player.
+
+**Four festival days · Immersive artwork · Custom music player**
+
+[Visit the live website →](https://chhathpujavibes.online/)
+
+<br>
+
 ## Selected Builds
 
 Some of the projects I have enjoyed building and improving.
