@@ -140,8 +140,8 @@ def footer(theme,mobile=False):
 
 def achievement(theme,mobile=False):
     p=PALETTES[theme]; w,h=(640,210) if mobile else (1200,144)
-    s=start(w,h,p,'GSSoC 2026 — Rank #13','Anmol Patel’s GSSoC 2026 achievement, as supplied in the original profile.')
-    s+=text(32 if mobile else 40,142 if mobile else 111,'#13',94 if mobile else 92,p['cyan'],700,spacing=-5)
+    s=start(w,h,p,'GSSoC 2026 — Rank #5','Anmol Patel’s GSSoC 2026 achievement, as supplied in the original profile.')
+    s+=text(32 if mobile else 40,142 if mobile else 111,'#5',94 if mobile else 92,p['cyan'],700,spacing=-5)
     if mobile:
         s+=f'<path d="M244 42V168" stroke="{p["line"]}"/>'
         s+=text(280,99,'GSSoC',39,p['ink'],600)

@@ -5,12 +5,12 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/achievement-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/achievement-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/achievement-dark.svg">
-  <img src="assets/achievement-light.svg" width="1200" alt="GSSoC 2026 — Rank #13.">
+  <img src="assets/achievement-light.svg" width="1200" alt="GSSoC 2026 — Rank #5.">
 </picture>
   
 </p>
 
-**GSSoC 2026 · Rank #13.** Open source is where I sharpen my craft: real codebases, thoughtful collaboration, useful contributions.
+**GSSoC 2026 · Rank #5.** Open source is where I sharpen my craft: real codebases, thoughtful collaboration, useful contributions.
 
 <br>
 
