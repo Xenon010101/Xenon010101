@@ -26,12 +26,10 @@ An interactive journey through the festival's **four days**, with immersive artw
 
 Some of the projects I have enjoyed building and improving.
 
-| Project | Description | Focus | Links |
-|---|---|---|---|
-| **Trading-Agent** | An autonomous AI system for market analysis, decision support, and strategy exploration. | AI Automation · Market Analysis | [Live Demo ↗](https://xenon010101.github.io/Trading-Agent/) |
-| **FocusTube** | A distraction-reduced video experience designed for intentional viewing. | Browser Experience · Product Development | [Source Code ↗](https://github.com/Xenon010101/FocusTube) |
-| **ArogyaAI** | An AI-powered healthcare assistant exploring accessible health information and intelligent support. | Healthcare AI · Applied AI | [Live Demo ↗](https://arogyaai-demo.onrender.com/) |
-| **PresentAI** | An AI-powered presentation evaluator that delivers structured, actionable feedback. | Applied AI · Presentation Feedback | [Source Code ↗](https://github.com/Xenon010101/PresentAI) |
+- **InsiderEdge** — Autonomous AI for market analysis, decision support, and strategy exploration. _AI Automation · Market Analysis_ · [Live ↗](https://xenon010101.github.io/InsiderEdge/)
+- **FocusTube** — A distraction-reduced video experience designed for intentional viewing. _Browser Experience · Product Development_ · [Source ↗](https://github.com/Xenon010101/FocusTube)
+- **ArogyaAI** — An AI-powered assistant exploring accessible health information and intelligent support. _Healthcare AI · Applied AI_ · [Live ↗](https://arogyaai-demo.onrender.com/)
+- **PresentAI** — An AI-powered presentation evaluator delivering structured, actionable feedback. _Applied AI · Presentation Feedback_ · [Source ↗](https://github.com/Xenon010101/PresentAI)
 
 <p align="center">
   <a href="https://github.com/Xenon010101?tab=repositories"><strong>Browse all repositories ↗</strong></a>
@@ -46,10 +44,12 @@ Some of the projects I have enjoyed building and improving.
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" width="1200" alt="5,063 contributions, 2,032 pull requests opened, and 7 reviews in GitHub's past-year window. Updated 2026-09-14.">
+  <img src="assets/activity-light.svg" width="1200" alt="3,794 contributions, 1,535 pull requests opened, and 7 reviews in GitHub's past-year window. Updated 2026-10-22.">
 </picture>
 </p>
 
+<sub>GitHub's past-year window · 2025-10-18 to 2026-10-22 · <a href="assets/activity.json">Snapshot data</a></sub>
+<!-- ACTIVITY:END -->
 
 <br>
 
