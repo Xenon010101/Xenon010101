@@ -44,11 +44,11 @@ Some of the projects I have enjoyed building and improving.
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" width="1200" alt="3,740 contributions, 1,535 pull requests opened, and 7 reviews in GitHub's past-year window. Updated 2026-10-31.">
+  <img src="assets/activity-light.svg" width="1200" alt="3,742 contributions, 1,535 pull requests opened, and 7 reviews in GitHub's past-year window. Updated 2026-11-01.">
 </picture>
 </p>
 
-<sub>GitHub's past-year window · 2025-10-26 to 2026-10-31 · <a href="assets/activity.json">Snapshot data</a></sub>
+<sub>GitHub's past-year window · 2025-10-26 to 2026-11-01 · <a href="assets/activity.json">Snapshot data</a></sub>
 <!-- ACTIVITY:END -->
 
 <br>
